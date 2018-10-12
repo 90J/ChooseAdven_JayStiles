@@ -1,0 +1,7 @@
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\obj\Debug\ChooseAdventure_JayStiles.csprojAssemblyReference.cache
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\obj\Debug\ChooseAdventure_JayStiles.csproj.CoreCompileInputs.cache
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\bin\Debug\ChooseAdventure_JayStiles.exe.config
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\bin\Debug\ChooseAdventure_JayStiles.exe
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\bin\Debug\ChooseAdventure_JayStiles.pdb
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\obj\Debug\ChooseAdventure_JayStiles.exe
+C:\Users\jstiles\source\repos\ChooseAdventure_JayStiles\ChooseAdventure_JayStiles\obj\Debug\ChooseAdventure_JayStiles.pdb
